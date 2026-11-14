@@ -1,13 +1,21 @@
 # Titleless.fyi
 
-Growth marketing jobs, classified by what each role owns.
+Open growth marketing jobs, sorted by the work each role owns rather than its job title.
 
-[Titleless.fyi](https://www.titleless.fyi/) sorts growth marketing roles by the work they own, not the title on the posting. These repositories list current roles that have a job page on the site, one list per specialization:
+A "Growth Manager" posting might be a paid media role, a lifecycle role or a true generalist. Each role goes into the list that matches the work its job description assigns. A growth-titled role that is mostly paid media goes in Performance Marketing, and one that spans several funnel stages goes in Generalist.
 
-- [Generalist Growth Marketing](https://github.com/Titleless-fyi/growth-marketing-jobs): growth across several funnel stages
-- [Demand Generation](https://github.com/Titleless-fyi/demand-generation-jobs): qualified pipeline for a sales team
-- [Lifecycle Marketing](https://github.com/Titleless-fyi/lifecycle-marketing-jobs): engaging and retaining existing customers
-- [Performance Marketing](https://github.com/Titleless-fyi/performance-marketing-jobs): paid media against CAC, CPA or ROAS targets
-- [Marketing Operations](https://github.com/Titleless-fyi/marketing-operations-jobs): the systems and data behind marketing
+| List | Roles that own |
+| --- | --- |
+| [Generalist Growth Marketing](https://github.com/Titleless-fyi/growth-marketing-jobs) | Growth across several funnel stages |
+| [Demand Generation](https://github.com/Titleless-fyi/demand-generation-jobs) | Qualified pipeline for a sales team |
+| [Lifecycle Marketing](https://github.com/Titleless-fyi/lifecycle-marketing-jobs) | Engaging and retaining existing customers |
+| [Performance Marketing](https://github.com/Titleless-fyi/performance-marketing-jobs) | Paid media against CAC, CPA or ROAS targets |
+| [Marketing Operations](https://github.com/Titleless-fyi/marketing-operations-jobs) | The systems and data behind marketing |
 
-To search every current role, go to [www.titleless.fyi](https://www.titleless.fyi/).
+## How the lists work
+
+- The lists update daily. Each update is a commit, so a repo's history shows roles being added and removed.
+- Roles come from employers' own applicant-tracking systems. Salary appears only when the employer publishes it.
+- A role can close between updates. Each job page says whether the role is still open.
+
+To report a role that's in the wrong list or has closed, open an issue in that list's repo.
